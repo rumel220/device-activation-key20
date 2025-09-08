@@ -14,13 +14,13 @@
     {
         "device_id": "2feb54295ffe1de5",
         "key": "adni20",
-        "expirydate": "08-09-2025",
+        "expirydate": "08-09-2027",
         "Allowoffline": true
     },
     {
         "device_id": "ccab1f4ddf0627b7",
         "key": "Hridoy20",
-        "expirydate": "15-06-2025",
+        "expirydate": "15-06-2027",
         "Allowoffline": true
     }
 ]
