@@ -28,5 +28,11 @@
         "key": "rasel20",
         "expirydate": "15-06-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "9b60d87b8e1557e9",
+        "key": "Gamar20",
+        "expirydate": "15-06-2027",
+        "Allowoffline": false
     }
 ]
