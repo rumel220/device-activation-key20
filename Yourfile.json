@@ -34,5 +34,11 @@
         "key": "Gamar20",
         "expirydate": "15-06-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d237ebd8e8906317",
+        "key": "hasan20",
+        "expirydate": "15-06-2027",
+        "Allowoffline": false
     }
 ]
