@@ -40,5 +40,11 @@
         "key": "hasan20",
         "expirydate": "15-06-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ec1bfaeda78d3ecd",
+        "key": "rn200",
+        "expirydate": "15-06-2027",
+        "Allowoffline": false
     }
 ]
