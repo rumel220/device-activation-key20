@@ -46,5 +46,11 @@
         "key": "rn200",
         "expirydate": "15-06-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "16d1d4132c11372c",
+        "key": "tufan200",
+        "expirydate": "27-09-2025",
+        "Allowoffline": false
     }
 ]
