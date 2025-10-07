@@ -52,5 +52,11 @@
         "key": "tufan200",
         "expirydate": "27-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "c3f38213956094f0",
+        "key": "rayhan20",
+        "expirydate": "15-11-2027",
+        "Allowoffline": false
     }
 ]
