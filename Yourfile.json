@@ -70,5 +70,11 @@
         "key": "Abdus7790",
         "expirydate": "15-06-2029",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3448110296bb070b",
+        "key": "petla20",
+        "expirydate": "15-01-2026",
+        "Allowoffline": false
     }
 ]
