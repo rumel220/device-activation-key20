@@ -76,5 +76,11 @@
         "key": "petla20",
         "expirydate": "15-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "82fe16d1299bb395",
+        "key": "Eleas200",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
     }
 ]
